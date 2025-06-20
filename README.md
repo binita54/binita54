@@ -14,7 +14,7 @@
   React-based quiz app using country & capital data from a REST API. Features score tracking and clean UI.
 
 - 🔗 [**FamilyTravelTracker**](https://github.com/binita54/Family_Travel_Tracker)  
-  A backend web app built using Node.js, Express, and PostgreSQL. Users can input their name and travel destination via a form, which is then saved into a PostgreSQL database and displayed back as a personalized travel message.
+  A backend web app built using Node.js, Express, and PostgreSQL. Users can input their name and travel destination via a form, which is then saved into a PostgreSQL database and displayed back as a  personalized travel message.
 
 - 🔗 [**SecretRevealer**](https://github.com/binita54/secret_revealer)
  A simple backend project using Node.js, Express, and body-parser that allows users to submit a secret through a form and get a confirmation in response. It’s part of my backend learning path where I practiced handling POST requests and form data.
@@ -28,13 +28,13 @@
 - 🔗 [**Web Design with React**](https://github.com/binita54/react-project-1)  
   A e-commerce site single page application using basic react .
 
-  - 🔗 [**QR CODE GENERATOR WITH NODE**](https://github.com/binita54/QR_Code_generator)  
+ - 🔗 [**QR CODE GENERATOR WITH NODE**](https://github.com/binita54/QR_Code_generator)  
   A simple Node.js-based QR Code Generator that allows users to convert any URL into a downloadable QR code image.
 
 - 🔗 [**PendulumCity**](https://github.com/binita54/PendulumCity)  
   An interactive visual and audio simulation that creatively demonstrates the butterfly effect through chaotic double pendulums.
 
-  - 🔗 [**Wikipedia clone**](https://github.com/binita54/wikipedia)  
+ - 🔗 [**Wikipedia clone**](https://github.com/binita54/wikipedia)  
   A fully responsive Wikipedia search interface that allows users to search topics and view real-time results fetched from the Wikipedia API.
 
 - 🔗 [**Todolist**](https://github.com/binita54/Todolist)  
