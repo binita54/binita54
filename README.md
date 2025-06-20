@@ -4,9 +4,9 @@
 📍 Based in Nepal | Passionate about building interactive and meaningful web projects.
 
 ## 🔧 Tech Stack
-- HTML | CSS | JavaScript | React
-- Node.js | Express.js
-- Git & GitHub
+-  Frontend: HTML, CSS, JavaScript, React
+- Backend: Node.js, Express
+- Tools: Git, GitHub, VS Code
 
 ## 🌟 Projects
 - [HTML-CSS-JS-PROJECT](https://github.com/binita54/HTML-CSS-JS-PROJECT): Responsive static site
