@@ -25,7 +25,7 @@
 - 🔗 [**Dice Game with React**](https://github.com/binita54/dice_game_react_project_2)  
   A fun interactive dice game built with React. Includes rules display and game logic using state management.
 
-- 🔗 [**Web Design with React**](https://github.com/binita54/react-project-1)  
+- 🔗 [**Brand Page with React**](https://github.com/binita54/react-project-1)  
   A e-commerce site single page application using basic react .
 
  - 🔗 [**QR CODE GENERATOR WITH NODE**](https://github.com/binita54/QR_Code_generator)  
