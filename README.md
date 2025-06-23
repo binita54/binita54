@@ -5,7 +5,7 @@
 
 ## 🔧 Tech Stack
 - **Frontend**: HTML, CSS, JavaScript, React  
-- **Backend**: Node.js, Express  
+- **Backend**: Node.js, Express , Python, Django
 - **Tools**: Git, GitHub, VS Code
 
 ## 🌟 Projects
