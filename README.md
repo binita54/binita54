@@ -14,7 +14,7 @@
   React-based quiz app using country & capital data from a REST API. Features score tracking and clean UI.
 
 - 🔗 [**FamilyTravelTracker**](https://github.com/binita54/Family_Travel_Tracker)  
-  A backend web app built using Node.js, Express, and PostgreSQL. Users can input their name and travel destination via a form, which is then saved into a PostgreSQL database and displayed back as a  personalized travel message.
+  A backend web app built using Node.js, Express, and PostgreSQL. Users can input their name and travel destination via a form, which is then saved into a PostgreSQL database and displayed back in a world map.
 
 - 🔗 [**SecretRevealer**](https://github.com/binita54/secret_revealer)
  A simple backend project using Node.js, Express, and body-parser that allows users to submit a secret through a form and get a confirmation in response. It’s part of my backend learning path where I practiced handling POST requests and form data.
