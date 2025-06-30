@@ -16,11 +16,11 @@
 - 🔗 [**FamilyTravelTracker**](https://github.com/binita54/Family_Travel_Tracker)  
   A backend web app built using Node.js, Express, and PostgreSQL. Users can input their name and travel destination via a form, which is then saved into a PostgreSQL database and displayed back in a world map.
 
-  - 🔗 [**BlogPage**](https://github.com/binita54/BlogPage)
+- 🔗 [**BlogPage**](https://github.com/binita54/BlogPage)
   A blog application built with Node.js, Express, RESTAPI, and EJS, where users can read, create, edit, and delete blog posts.
 
 - 🔗 [**SecretRevealer**](https://github.com/binita54/secret_revealer)
-      A simple backend project using Node.js, Express, and body-parser that allows users to submit a secret through a form and get a confirmation in response. It’s part of my backend learning path where I               practiced handling POST requests and form data.
+ A simple backend project using Node.js, Express, and body-parser that allows users to submit a secret through a form and get a confirmation in response. It’s part of my backend learning path where I               practiced handling POST requests and form data.
 
 - 🔗 [**BandGenerator**](https://github.com/binita54/Band_generator)  
   A simple Node.js + Express project that generates a random band name based on user input. It's part of my backend bootcamp learning journey, helping me practice routing, form handling, and basic server setup      with Express.
