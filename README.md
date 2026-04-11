@@ -1,14 +1,16 @@
-# 👋 Hello, I'm Binita Ghale
+#  Hi, I'm Binita Ghale
 
-🎓 BIT Student | 💻 Web Developer | 🌱 AI Enthusiast  
-📍 Based in Nepal | Passionate about building interactive and meaningful web projects.
+ BIT Student |  Web Developer |  AI Enthusiast  
+ Based in Nepal
+ I build real-world web applications and machine learning projects with a focus on practical problem-solving and clean architecture.
 
 ## 🔧 Tech Stack
 - **Frontend**: HTML, CSS, JavaScript, React  
-- **Backend**: Node.js, Express , Python, Django
-- **Tools**: Git, GitHub, VS Code
+- **Backend**: Node.js, Express , Python, Django, Flask
+- **ML/AI**: Scikit-learn, Pandas, NumPy, Matplotlib
+- **Tools**: Git, GitHub, VS Code, Postman
 
-## 🌟 Projects
+##  Projects
 
 - 🔗 [**FamilyTravelTracker**](https://github.com/binita54/Family_Travel_Tracker)  
   A backend web app built using Node.js, Express, and PostgreSQL. Users can input their name and travel destination via a form, which is then saved into a PostgreSQL database and displayed back in a world map.
