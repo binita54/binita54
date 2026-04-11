@@ -2,6 +2,7 @@
 
  BIT Student |  Web Developer |  AI Enthusiast  
  Based in Nepal
+ 
  I build real-world web applications and machine learning projects with a focus on practical problem-solving and clean architecture.
 
 ## 🔧 Tech Stack
