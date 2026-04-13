@@ -14,10 +14,10 @@
 ##  Projects
 
 - 🔗 [**House Price Prediction (Machine Learning)**](https://github.com/binita54/house-price-prediction)  
-  This project is an end-to-end machine learning web application that predicts house prices based on key features such as location, area, number of BHK, and bathrooms. The system combines a trained regression model with a Flask backend and a responsive frontend UI.
+  This project is an end-to-end machine learning web application that predicts house prices based on key features such as location, area, number of BHK, and          bathrooms. The system combines a trained regression model with a Flask backend and a responsive frontend UI.
 
-  - 🔗 [**Crop Recommendation System (Machine Learning)**](https://github.com/binita54/Crop-Recommendation-ML)  
- An ML classification model that recommends the most suitable crop based on soil nutrients and environmental conditions. Built using Random Forest and trained on agricultural datasets.
+- 🔗 [**Crop Recommendation System (Machine Learning)**](https://github.com/binita54/Crop-Recommendation-ML)  
+   An ML classification model that recommends the most suitable crop based on soil nutrients and environmental conditions. Built using Random Forest and trained on    agricultural datasets.
 
 - 🔗 [**FamilyTravelTracker(Full-Stack Web App)**](https://github.com/binita54/Family_Travel_Tracker)  
   A backend web app built using Node.js, Express, and PostgreSQL. Users can input their name and travel destination via a form, which is then saved into a            PostgreSQL database and displayed back in a world map.
