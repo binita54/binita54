@@ -5,7 +5,7 @@
  
  I build real-world web applications and machine learning projects with a focus on practical problem-solving and clean architecture.
 
-## 🔧 Tech Stack
+##  Tech Stack
 - **Frontend**: HTML, CSS, JavaScript, React  
 - **Backend**: Node.js, Express , Python, Django, Flask
 - **ML/AI**: Scikit-learn, Pandas, NumPy, Matplotlib
@@ -42,6 +42,6 @@
 
 
 
-## 📫 Contact Me
-- ✉️ Email: [ghalebinita54@gmail.com](mailto:ghalebinita54@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/binita-650553334](https://www.linkedin.com/in/binita-650553334/)
+## Contact Me
+-  Email: [ghalebinita54@gmail.com](mailto:ghalebinita54@gmail.com)  
+-  LinkedIn: [linkedin.com/in/binita-650553334](https://www.linkedin.com/in/binita-650553334/)
