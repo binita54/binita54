@@ -8,7 +8,7 @@
 ##  Tech Stack
 - **Frontend**: HTML, CSS, JavaScript, React  
 - **Backend**: Node.js, Express , Python, Django, Flask
-- **ML/AI**: Scikit-learn, Pandas, NumPy, Matplotlib
+- **ML/AI**: Scikit-learn, Pandas, NumPy, Matplotlib, Tensorflow, Pytorch
 - **Tools**: Git, GitHub, VS Code, Postman
 
 ##  Projects
