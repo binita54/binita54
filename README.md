@@ -1,4 +1,4 @@
-#  Hi, I'm Binita Ghale
+#  Hi, I'm Binita 
 
  BIT Student |  Web Developer |  AI Enthusiast  
  Based in Nepal
